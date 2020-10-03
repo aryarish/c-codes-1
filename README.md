@@ -1,6 +1,7 @@
 # c-codes 
 # c+master
-#java codes
+#java code 
+#python code
 =======
 # Jamaster
 / C++ program to print all primes smaller than or equal to 
